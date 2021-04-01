@@ -6,7 +6,7 @@ This project can be viewed [here](https://.NeirouzJbira.github.io/Roll-The-Dice/
 
 
 ## Demo
-![roll-the-dice](url)
+![roll-the-dice](https://github.com/NeirouzJbira/Roll-The-Dice/blob/main/roll-the-dice.gif)
 
 ## Languages Used
 - HTML
